@@ -1,7 +1,7 @@
 #  Hi there! I'm Andrés Rodríguez
 ### Computer Science Student at UTEC | Passionate about coding and technology 🐧
 
-I'm a student at [UTEC Uruguay](https://utec.edu.uy/en/education/undergraduate-study/technologist-degree-in-computer-science/), currently pursuing a **Technologist Degree in Computer Science**. I’ve completed my final year of high school with a focus on **web development**. I’m especially interested in programming logic, web technologies, and building useful tools. 
+I'm a student at [UTEC Uruguay](https://utec.edu.uy/en/), currently pursuing a **[Technologist Degree in Computer Science](https://utec.edu.uy/en/education/undergraduate-study/technologist-degree-in-computer-science/)**. I’ve completed my final year of high school with a focus on **web development**. I’m especially interested in programming logic, web technologies, and building useful tools. 
 
 ---
 
@@ -30,8 +30,7 @@ I'm a student at [UTEC Uruguay](https://utec.edu.uy/en/education/undergraduate-s
 
 ## 📚 Currently Learning
 
-- Advanced Git and GitHub workflows
-- Docker basics and containerization
+- Git and GitHub 
 - Improving problem-solving with C++
 - Java and Spring Boot
 
