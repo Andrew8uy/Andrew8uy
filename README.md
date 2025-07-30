@@ -30,7 +30,6 @@ I'm a student at [UTEC Uruguay](https://utec.edu.uy/en/), currently pursuing a *
 
 ## 📚 Currently Learning
 
-- Git and GitHub 
 - Improving problem-solving with C++
 - Java and Spring Boot
 
@@ -39,7 +38,6 @@ I'm a student at [UTEC Uruguay](https://utec.edu.uy/en/), currently pursuing a *
 ## 📬 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andrés-bernabé-rodríguez-mori-7572a5357/)
-- 📧 andresrmka2013@email.com
 
 ---
 
