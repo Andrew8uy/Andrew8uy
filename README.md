@@ -8,7 +8,6 @@ Soy estudiante de la [Universidad Tecnológica del Uruguay (UTEC)](https://utec.
 ## 📚 Actualmente Aprendiendo
 
 - Resolución de problemas con C/C++
-- Desarrollo backend con Java y Spring Boot
 
 ---
 
